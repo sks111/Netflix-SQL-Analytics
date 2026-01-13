@@ -14,6 +14,9 @@
 > A **production-style SQL analytics project** analyzing Netflix’s content catalog to answer **20 real business questions** using **EDA, advanced SQL, and insight-driven analysis**.
 
 ---
+<p align="center">
+  <img src="https://github.com/sks111/Netflix-SQL-Analytics/blob/main/netflix_logo.png" alt="Netflix logo" width="300">
+</p>
 
 ## 📌 Project Overview
 
