@@ -8,7 +8,7 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-8.0.44-4479A1)
 ![SQL](https://img.shields.io/badge/SQL-007ACC)
-![Status](https://img.shields.io/badge/Project-Complete-success)
+![Status](https://img.shields.io/badge/Project-Complete-success) 
 
 
 > A **production-style SQL analytics project** analyzing Netflix’s content catalog to answer **20 real business questions** using **EDA, advanced SQL, and insight-driven analysis**.
