@@ -3,9 +3,6 @@
 </div>
 
 ---
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/215458482-0f35f84f-2e63-4e1e-9c6e-7b8f7b8f7b8f.jpg" width="100%" />
-</div>
 
 # 🎬 Netflix SQL Analytics — End-to-End Business Case Study
 
