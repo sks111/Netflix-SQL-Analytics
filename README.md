@@ -193,15 +193,4 @@ Each question follows a structured workflow:
 ---
 
 
-## 🚀 How to Run the Project
 
-```bash
-# Clone repository
-git clone https://github.com/yourusername/Netflix-SQL-Analytics.git
-cd Netflix-SQL-Analytics
-
-# Load dataset
-mysql -u root -p netflix_db < netflix_titles.sql
-
-# Run full analysis
-mysql -u root -p netflix_db < netflix_complete_analysis.sql
